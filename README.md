@@ -8,7 +8,7 @@
 
 Here, you can find the .STL files and the FreeCAD source files to this OPEN film carrier, and the Arduino Sketch file that was written for this film carrier.
 
-The features of this film holder, suggested 3D printing settings as well as instructions into how to assemble this film carrier can be found at duckafterduck.com .
+The features of this film holder, suggested 3D printing settings as well as instructions to how to assemble this film carrier can be found at duckafterduck.com .
 
 For assembly video please refer to https://www.youtube.com/channel/UCxDmHiaqxUF9GDoZOZeWzww .
 
