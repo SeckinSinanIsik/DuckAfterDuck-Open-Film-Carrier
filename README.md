@@ -14,4 +14,6 @@ The features of this film holder, suggested 3D printing settings as well as inst
 
 For assembly video please refer to https://www.youtube.com/channel/UCxDmHiaqxUF9GDoZOZeWzww .
 
+![Figure 10](https://user-images.githubusercontent.com/20731547/107441159-c7230600-6b02-11eb-8b7c-a52d76db4e14.jpg)
+
 Thanks you.
