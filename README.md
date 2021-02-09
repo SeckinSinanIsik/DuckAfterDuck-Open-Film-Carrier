@@ -1,4 +1,4 @@
-# Making a make a LIDAR driven motorized Film Carrier
+# Making a LIDAR driven motorized Film Carrier
 
 /* DuckAfterDuck OPEN Film Carrier
    Seckin Sinan Isik
